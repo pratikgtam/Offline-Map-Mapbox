@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Offline Map</string>
+    <string name="access_token">pk.eyJ1IjoiZXhwbG9yaW5ncHJhdGlrIiwiYSI6ImNqbzEwb2I1aTA2a3YzcWs3azhsOXY3bDcifQ.nr_c1VUl0dnD9IS4FxrVkw</string>
+    <string name="set_region_name_hint">set_region_name_hint</string>
+    <string name="dialog_title">dialog_title</string>
+    <string name="dialog_message">dialog_message</string>
+    <string name="dialog_positive_button">dialog_positive_button</string>
+    <string name="dialog_toast">dialog_toast</string>
+    <string name="dialog_negative_button">dialog_negative_button</string>
+    <string name="toast_no_regions_yet">toast_no_regions_yet</string>
+    <string name="navigate_title">navigate_title</string>
+    <string name="navigate_positive_button">Navigate To</string>
+    <string name="navigate_neutral_button_title">Delete</string>
+    <string name="toast_region_deleted">toast_region_deleted</string>
+    <string name="navigate_negative_button_title">Cancel</string>
+    <string name="region_name">region_name</string>
+    <string name="end_progress_success">end_progress_success</string>
+    <string name="simple_offline_end_progress_success">simple_offline_end_progress_success</string>
+    <string name="basic_offline_deleted_toast">basic_offline_deleted_toast</string>
+
+
+</resources>
